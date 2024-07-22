@@ -1,0 +1,18 @@
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\bin\Debug\db test.exe.config
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\bin\Debug\db test.exe
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\bin\Debug\db test.pdb
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db test.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db test.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db_test.Form1.resources
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db_test.login.resources
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db_test.Properties.Resources.resources
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db test.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db test.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db test.exe
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db test.pdb
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db_test.userMenu.resources
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db_test.adminMenu.resources
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db_test.insertMenu.resources
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db_test.updateMenu.resources
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db_test.updateMenu2.resources
+C:\Users\user\OneDrive - Cairo University - Students\Documents\c# files\db test\db test\obj\Debug\db_test.deleteMenu.resources
